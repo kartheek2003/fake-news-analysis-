@@ -1,2 +1,2 @@
-# stock-market-predict
-stock market prediction using python and some neural networks
+# fake news analysis
+fake news analysis using python and some neural networks
